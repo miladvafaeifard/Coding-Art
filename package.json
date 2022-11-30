@@ -1,0 +1,19 @@
+{
+  "name": "coding-art",
+  "version": "1.0.0",
+  "description": "Coding Art with Strategy Pattern",
+  "main": "index.html",
+  "scripts": {
+    "step-1": "nodemon src/step-1.js",
+    "step-2": "nodemon src/step-2.js",
+    "step-3": "nodemon src/step-3.js",
+    "step-4": "nodemon src/step-4.js"
+  },
+  "keywords": [],
+  "author": "Milad Vafaeifard",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
